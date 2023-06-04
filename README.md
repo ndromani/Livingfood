@@ -7,15 +7,11 @@ https://livingfood.my.canva.site/
 Happy to introduce you to our tiny friends:
 # My name is Funky Kraut
 <img src="images/Funky.png" width="500">
-![](images/Funky.png)
 # My name is Scoby Doo-cha
 <img src="images/Scooby.png" width="500">
-![](images/Scooby.png)
 # My name is Pizza Hero
 <img src="images/Pizza.png" width="500">
-![](images/Pizza.png)
 
 We are the living microorganisms (good bacteria and fungi) that transform food during the fermentation process.
-
 
 Our job is to pre-digest and extract valuable vitamins and enzhymes for your body.
