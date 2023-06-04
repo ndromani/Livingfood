@@ -1,5 +1,5 @@
 # Livingfood
-![](images/Living_food_logo_transparent.png)
+![](images/living_food_logo_transparent.png)
 An educational website for making living food attractive to kids and grownups
 # https://livingfood.my.canva.site/
 Happy to introduce you to our tiny friends:
@@ -9,6 +9,8 @@ Happy to introduce you to our tiny friends:
 ![](images/Scooby.png)
 # My name is Pizza Hero
 ![](images/Pizza.png)
-We are the living microorganisms (good bacteria and fungi) that transform food during the fermentation process.
 
-Our job is to pre-digest and extract valuable vitamins and enzhymes for your body.
+# We are the living microorganisms (good bacteria and fungi) that transform food during the fermentation process.
+
+
+# Our job is to pre-digest and extract valuable vitamins and enzhymes for your body.
