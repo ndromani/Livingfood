@@ -8,7 +8,8 @@ Happy to introduce you to our tiny friends:
 # My name is Funky Kraut
 <img src="images/Funky.png" width="500">
 # My name is Scoby Doo-cha
-<img src="images/Scooby.png" width="500">
+<img src="images/Funky, Scooby & Pizza (13).png
+" width="500">
 # My name is Pizza Hero
 <img src="images/Pizza.png" width="500">
 
